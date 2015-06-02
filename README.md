@@ -5,7 +5,7 @@
 [![NPM](https://nodei.co/npm/node-correios.png)](https://nodei.co/npm/node-correios/)
 
 Módulo de [NodeJS](http://nodejs.org) que utiliza a API SOAP dos Correios para calcular frete de envio e buscar endereço pelo CEP.
-[API dos Correios](http://www.correios.com.br/webServices/PDF/SCPP_manual_implementacao_calculo_remoto_de_precos_e_prazos.pdf)
+[API dos Correios](http://www.correios.com.br/para-voce/correios-de-a-a-z/pdf/calculador-remoto-de-precos-e-prazos/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos/at_download/file)
 
 
 ##Exemplo
